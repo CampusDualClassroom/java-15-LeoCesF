@@ -9,7 +9,6 @@ public class Exercise15 {
 				Calendar.getInstance().getTime());
 		fm.printSpecificData();
 		System.out.println(fm.getLocation());
-
 	}
 
 }
